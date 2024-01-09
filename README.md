@@ -10,7 +10,7 @@ I am currently a fellow at the prestigious AREWA DATA SCIENCE ACADEMY, learning 
 *   ✉️  You can contact me at [fijibia@fptb.edu.ng](mailto:fijibia@fptb.edu.ng)
 *   🧠  I'm learning Phython, HTML, CSS, and LLMs
 *   🤝  I'm open to collaborating on Data Science projects and front end development
-*   ⚡  I am happy### Skills 
+*   ⚡  I am interested in Sentiment analysis### Skills 
 <p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
                     </p>
